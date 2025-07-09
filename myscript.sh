@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Dharanish, welcome to DevOps!"
+echo "Hello Dharanish Devops is easy and poeerful!"
