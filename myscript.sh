@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "i will win or die"
+!/bin/bash
+<<<<<<< HEAD
+echo "Welcome to Dharanish's Git and DevOps Journey!"
+>>>>>>> feature-welcome-update
